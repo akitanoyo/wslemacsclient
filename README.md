@@ -4,6 +4,9 @@ Windows 10 Fall Creators Update済みの環境で試しました。
 他の環境の動作確認してないです…動いたら報告をしていただければ幸いです。  
 
 
+<span style="color:red;">wslでemacsが起動している状態じゃないと送るや開くを選んでもemacsは、立ち上がりませんあしからず…</span>  
+
+
 * [emacs準備](#emacs)
 * [エクスプローラーから送るでwslのemacsで開く場合](#exploler2wslemacsscript)
 * [windowsエクスプローラーでファイルをダブルクリックでwslのemacsで開きたい場合](#exploler2wslemacs)
